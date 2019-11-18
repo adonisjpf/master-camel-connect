@@ -7,7 +7,7 @@
 #
 #   push:
 #     branches:
-#       - develop
+#       - jacky-actions
 #
 # jobs:
 #   build:
